@@ -5,7 +5,7 @@ export const state={
     userInfo:{
         token:'',
         user:{
-            nickname:'小明'
+            
         }
     }
 }
